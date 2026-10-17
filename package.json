@@ -1,0 +1,8 @@
+{
+  "name": "ecole-jadida-server",
+  "version": "1.0.0",
+  "description": "خادم الموقع والإذاعة المدرسية المباشرة (بدون أي اعتماديات خارجية)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
